@@ -9,3 +9,4 @@ See my solutions of Codewars!
 
 ### Array.diff (6 kyu)
 ### Two Sum (6 kyu)
+### Isograms (7 kyu)
