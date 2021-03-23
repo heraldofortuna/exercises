@@ -11,3 +11,4 @@ See my solutions of Codewars!
 ### Two Sum (6 kyu)
 ### Isograms (7 kyu)
 ### Money, money, money (7 kyu)
+### Count the Digit (7 kyu)
