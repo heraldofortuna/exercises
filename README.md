@@ -8,3 +8,4 @@ See my solutions of Codewars!
 ## `Python`
 
 ### Array.diff (6 kyu)
+### Two Sum (6 kyu)
