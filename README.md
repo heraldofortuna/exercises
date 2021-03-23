@@ -1,7 +1,8 @@
 # codewars-exercises
 See my solutions of Codewars!
 
-Codewars Exercises:
+## `JavaScript`
 
-Title Case (6 kyu)
+### Title Case (6 kyu)
 
+## `Python`

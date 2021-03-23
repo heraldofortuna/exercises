@@ -1,16 +1,3 @@
-function titleCase(title, minorWords) {
-  if (title == '') { return '' }; 
-  if (minorWords == undefined) { minorWords = '' };
-  title = title.toLowerCase().split(' ');
-  minorWords = minorWords.toLowerCase().split(' ');
-  for (let i in title) { 
-    if ( minorWords.includes(title[i]) == false || i == 0 ) {
-      title[i] = title[i].charAt(0).toUpperCase() + title[i].toLowerCase().slice(1);
-    }
-  }
-  return title.join(' ');
-}
-
 /*
 Description:
 A string is considered to be in title case if each word in the string is either (a) capitalised 
@@ -29,3 +16,17 @@ Second argument (optional): space-delimited list of minor words that must always
 for the first word in the string. The JavaScript/CoffeeScript tests will pass undefined when this 
 argument is unused.
 */
+
+function titleCase(title, minorWords) {
+  if (title == '') { return '' }; 
+  if (minorWords == undefined) { minorWords = '' };
+  title = title.toLowerCase().split(' ');
+  minorWords = minorWords.toLowerCase().split(' ');
+  for (let i in title) { 
+    if ( minorWords.includes(title[i]) == false || i == 0 ) {
+      title[i] = title[i].charAt(0).toUpperCase() + title[i].toLowerCase().slice(1);
+    }
+  }
+  return title.join(' ');
+}
+
