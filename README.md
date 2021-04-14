@@ -1,5 +1,6 @@
-# codewars-exercises
-See my solutions of Codewars!
+# Codewars Exercises
+
+>> Find a solution by language
 
 ## `JavaScript`
 
