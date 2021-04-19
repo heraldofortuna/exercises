@@ -23,4 +23,3 @@ def is_isogram(string):
 # The best:
 def is_isogram(string):
   return len(string) == len(set(string.lower()))
-

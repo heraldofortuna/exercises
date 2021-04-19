@@ -1,4 +1,5 @@
 # codewars-exercises
+
 See my solutions of Codewars!
 
 ## `JavaScript`
@@ -8,7 +9,13 @@ See my solutions of Codewars!
 ## `Python`
 
 ### Array.diff (6 kyu)
+
 ### Two Sum (6 kyu)
+
+### Dubstep (6 kyu)
+
 ### Isograms (7 kyu)
+
 ### Money, money, money (7 kyu)
+
 ### Count the Digit (7 kyu)
