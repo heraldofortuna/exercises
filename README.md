@@ -6,11 +6,11 @@
 
 ### [Valid Spacing (7 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/valid-spacing.js)
 
-### [Title Case (6 kyu)] (https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/title-case.js)
+### [Title Case (6 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/title-case.js)
 
 ## `Python`
 
-### Isograms (7 kyu)
+### [Isograms (7 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/Python/isograms.py)
 
 ### Money, money, money (7 kyu)
 
