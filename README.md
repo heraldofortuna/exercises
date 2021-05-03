@@ -4,6 +4,8 @@
 
 ## `JavaScript`
 
+### [Opposites Attract (8 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/opposites-attract.js)
+
 ### [Valid Spacing (7 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/valid-spacing.js)
 
 ### [Title Case (6 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/title-case.js)
