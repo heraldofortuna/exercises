@@ -6,4 +6,4 @@ function validSpacing(s) {
   }
 }
 
-/* Kata Link: https://www.codewars.com/kata/5f77d62851f6bc0033616bd8/train/javascript */
+/* Kata Link: https://www.codewars.com/kata/5f77d62851f6bc0033616bd8 */
