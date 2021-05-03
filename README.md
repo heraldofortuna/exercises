@@ -12,12 +12,12 @@
 
 ### [Isograms (7 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/Python/isograms.py)
 
-### Money, money, money (7 kyu)
+### [Money, money, money (7 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/Python/money-money-money.py)
 
-### Count the Digit (7 kyu)
+### [Count the Digit (7 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/Python/count-the-digit.py)
 
-### Array.diff (6 kyu)
+### [Array.diff (6 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/Python/array-diff.py)
 
-### Two Sum (6 kyu)
+### [Two Sum (6 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/Python/two-sum.py)
 
-### Dubstep (6 kyu)
+### [Dubstep (6 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/Python/dubstep.py)
