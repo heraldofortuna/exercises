@@ -6,6 +6,10 @@
 
 ### Title Case (6 kyu)
 
+### Valid Spacing (7 kyu)
+
+[Kata Link](https://www.codewars.com/kata/5f77d62851f6bc0033616bd8/train/javascript)
+
 ## `Python`
 
 ### Array.diff (6 kyu)
