@@ -6,6 +6,8 @@
 
 ### [Opposites Attract (8 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/opposites-attract.js)
 
+### [Gravity Flip (8 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/gravity-flip.js)
+
 ### [Valid Spacing (7 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/valid-spacing.js)
 
 ### [Reverse the bits in an integer (7 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/reverse-bits-integer.js)
