@@ -10,6 +10,8 @@
 
 ### [Reverse the bits in an integer (7 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/reverse-bits-integer.js)
 
+### [Simple Fun #2: Circle of Numbers (7 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/circle-of-numbers.js)
+
 ### [Title Case (6 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/title-case.js)
 
 ## `Python`
