@@ -122,8 +122,8 @@ In all of the below, the question is, does the regular expression match the full
 
 ### 9 Which of the following matches regexp /<[^>]+>/
 
-1. <an xml tag>
-2. <opentag> <closetag>
-3. </closetag>
-4. <>
-5. <with attribute=”77”>
+1. `<an xml tag>`
+2. `<opentag> <closetag>`
+3. `</closetag>`
+4. `<>`
+5. `<with attribute=”77”>`
