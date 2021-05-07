@@ -55,75 +55,75 @@ In all of the below, the question is, does the regular expression match the full
 
 ### 1 Which of the following matches regexp /a(ab)\*a/
 
-1.               abababa
-2.               aaba
-3.               aabbaa
-4.               aba
-5.               aabababa
+1. abababa
+2. aaba
+3. aabbaa
+4. aba
+5. aabababa
 
 ### 2 Which of the following matches regexp /ab+c?/
 
-1.               abc
-2.               ac
-3.               abbb
-4.               bbc
+1. abc
+2. ac
+3. abbb
+4. bbc
 
 ### 3 Which of the following matches regexp /a.[bc]+/
 
-1.               abc
-2.               abbbbbbbb
-3.               azc
-4.               abcbcbcbc
-5.               ac
-6.               asccbbbbcbcccc
+1. abc
+2. abbbbbbbb
+3. azc
+4. abcbcbcbc
+5. ac
+6. asccbbbbcbcccc
 
 ### 4 Which of the following matches regexp /abc|xyz/
 
-1.               abc
-2.               xyz
-3.               abc|xyz
+1. abc
+2. xyz
+3. abc|xyz
 
 ### 5 Which of the following matches regexp /[a-z]+[\.\?!]/
 
-1.               battle!
-2.               Hot
-3.               green
-4.               swamping.
-5.               jump up.
-6.               undulate?
-7.               is.?
+1. battle!
+2. Hot
+3. green
+4. swamping.
+5. jump up.
+6. undulate?
+7. is.?
 
 ### 6 Which of the following matches regexp /[a-zA-Z]\*[^,]=/
 
-1.               Butt=
-2.               BotHEr,=
-3.               Ample
-4.               FIdDlE7h=
-5.               Brittle =
-6.               Other.=
+1. Butt=
+2. BotHEr,=
+3. Ample
+4. FIdDlE7h=
+5. Brittle =
+6. Other.=
 
 ### 7 Which of the following matches regexp /[a-z][\.\?!]\s+[A-Z]/
 
 (\s matches any space character)
 
-1.               A. B
-2.               c! d
-3.               e f
-4.               g.   H
-5.               i?  J
-6.               k L
+1. A. B
+2. c! d
+3. e f
+4. g. H
+5. i? J
+6. k L
 
 ### 8 Which of the following matches regexp /(very )+(fat )?(tall|ugly) man/
 
-1.               very fat man
-2.               fat tall man
-3.               very very fat ugly man
-4.               very very very tall man
+1. very fat man
+2. fat tall man
+3. very very fat ugly man
+4. very very very tall man
 
 ### 9 Which of the following matches regexp /<[^>]+>/
 
-1.               <an xml tag>
-2.               <opentag> <closetag>
-3.               </closetag>
-4.               <>
-5.               <with attribute=”77”>
+1. <an xml tag>
+2. <opentag> <closetag>
+3. </closetag>
+4. <>
+5. <with attribute=”77”>
