@@ -16,7 +16,7 @@
 | slap     | two part |
 | respite  |          |
 
-### Regexp: `(s|res)?(la)?p(\s|[a-o])t(e|wo)?`
+### My Solution: `(s|res)?(la)?p(\s|[a-o])t(e|wo)?`
 
 ## Exercise 2:
 
@@ -32,7 +32,7 @@
 |            | apples     |
 |            | shape the  |
 
-### Regexp: `([r-t]|wr|87)?ap(\s|e|/|9|o)?t(h|r)(em|a|ecar)?(y)?`
+### My Solution: `([r-t]|wr|87)?ap(\s|e|/|9|o)?t(h|r)(em|a|ecar)?(y)?`
 
 ## Exercise 3:
 
@@ -47,7 +47,7 @@
 | bafghk    | aff gm   |
 | baffg kit | afffhgk  |
 
-### Regexp: `(r|b)?af(f)?g(f|h|\s)?ki?(ng|t|ahe)?`
+### My Solution: `(r|b)?af(f)?g(f|h|\s)?ki?(ng|t|ahe)?`
 
 ## Additional regular expression exercises
 
@@ -56,10 +56,10 @@ In all of the below, the question is, does the regular expression match the full
 ### 1 Which of the following matches regexp /a(ab)\*a/
 
 1. abababa
-2. aaba
+2. aaba (X)
 3. aabbaa
 4. aba
-5. aabababa
+5. aabababa (X)
 
 ### 2 Which of the following matches regexp /ab+c?/
 

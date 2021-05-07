@@ -1,6 +1,6 @@
 ## Codewars Exercises
 
-> Find a solution by language and level
+> Find a solution by language and level:
 
 ### `JavaScript`
 
