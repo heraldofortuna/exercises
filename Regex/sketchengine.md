@@ -1,6 +1,7 @@
 # Sketchengine Problems
 
-- [Website](https://regex.sketchengine.co.uk/)
+- Here are some exercises that test your ability to use regular expressions.
+  [Sketchengine Website here!](https://regex.sketchengine.co.uk/)
 
 ## Exercise 1:
 
