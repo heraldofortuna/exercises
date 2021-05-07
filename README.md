@@ -18,6 +18,8 @@
 
 ### [Equal Sides Of An Array (6 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/equal-sides-of-an-array.js)
 
+### [Highest Rank Number in an Array (6 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/JavaScript/highest-rank-number-in-an-array.js)
+
 ## `Python`
 
 ### [Isograms (7 kyu)](https://github.com/heraldofortuna/codewars-exercises/blob/main/Python/isograms.py)
