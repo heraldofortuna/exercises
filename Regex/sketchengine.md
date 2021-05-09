@@ -63,44 +63,44 @@ In all of the below, the question is, does the regular expression match the full
 
 ### 2 Which of the following matches regexp /ab+c?/
 
-1. abc
+1. abc (X)
 2. ac
-3. abbb
+3. abbb (X)
 4. bbc
 
 ### 3 Which of the following matches regexp /a.[bc]+/
 
-1. abc
-2. abbbbbbbb
-3. azc
-4. abcbcbcbc
+1. abc (X)
+2. abbbbbbbb (X)
+3. azc (X)
+4. abcbcbcbc (X)
 5. ac
-6. asccbbbbcbcccc
+6. asccbbbbcbcccc (X)
 
 ### 4 Which of the following matches regexp /abc|xyz/
 
-1. abc
-2. xyz
+1. abc (X)
+2. xyz (X)
 3. abc|xyz
 
 ### 5 Which of the following matches regexp /[a-z]+[\.\?!]/
 
-1. battle!
+1. battle! (X)
 2. Hot
 3. green
-4. swamping.
+4. swamping. (X)
 5. jump up.
-6. undulate?
+6. undulate? (X)
 7. is.?
 
 ### 6 Which of the following matches regexp /[a-zA-Z]\*[^,]=/
 
-1. Butt=
+1. Butt= (X)
 2. BotHEr,=
 3. Ample
 4. FIdDlE7h=
-5. Brittle =
-6. Other.=
+5. Brittle = (X)
+6. Other.= (X)
 
 ### 7 Which of the following matches regexp /[a-z][\.\?!]\s+[A-Z]/
 
@@ -109,21 +109,21 @@ In all of the below, the question is, does the regular expression match the full
 1. A. B
 2. c! d
 3. e f
-4. g. H
-5. i? J
+4. g. H (X)
+5. i? J (X)
 6. k L
 
 ### 8 Which of the following matches regexp /(very )+(fat )?(tall|ugly) man/
 
 1. very fat man
 2. fat tall man
-3. very very fat ugly man
-4. very very very tall man
+3. very very fat ugly man (X)
+4. very very very tall man (X)
 
 ### 9 Which of the following matches regexp /<[^>]+>/
 
-1. `<an xml tag>`
+1. `<an xml tag>` (X)
 2. `<opentag> <closetag>`
-3. `</closetag>`
+3. `</closetag>` (X)
 4. `<>`
-5. `<with attribute=”77”>`
+5. `<with attribute=”77”>` (X)
