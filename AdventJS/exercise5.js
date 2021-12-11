@@ -1,11 +1,4 @@
-function sumPairs(numbers, result) {
-  for (let i in numbers) {
-    for (let j in numbers) {
-      if (numbers[i] + numbers[j] === result && i !== j) {
-        return [numbers[i], numbers[j]];
-      }
-    }
-  }
-
-  return null;
+function daysToXmas(date) {
+  const christmas = new Date("Dec 25, 2021");
+  return Math.ceil((christmas - date) / 86400000);
 }
