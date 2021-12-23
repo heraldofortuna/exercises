@@ -1,32 +1,22 @@
 function isValid(letter) {
-  let valid = true;
-  const arr = letter.split(" ");
+  let characters = letter.split("");
+  let parenthesis = 0;
 
-  arr.map((str) => {
-    let parentheses = 0;
-    str.split("").map((letter) => {
-      if (letter === "(") {
-        parentheses += 1;
-      } else if (letter === ")") {
-        parentheses -= 1;
-      } else if (letter === "{" || letter === "[") {
-        valid = valid && false;
-      }
-    });
-    if (parentheses !== 0) {
-      valid = valid && false;
+  characters.map((character) => {
+    if (character === "(") {
+      parenthesis += 1;
+    } else if (character === ")") {
+      parenthesis -= 1;
     }
-    parentheses = 0;
   });
 
-  console.log(valid);
-  return valid;
+  if (
+    parenthesis !== 0 ||
+    letter.match(/[\[\[{}]/g) ||
+    letter.match(/[)]\w+[(]|[(][)]/g)
+  ) {
+    return false;
+  }
+
+  return true;
 }
-
-isValid("bici coche (balón) bici coche peluche"); // -> ✅
-isValid("(muñeca) consola bici"); // ✅
-
-isValid("bici coche (balón bici coche"); // -> ❌
-isValid("peluche (bici [coche) bici coche balón"); // -> ❌
-isValid("(peluche {) bici"); // -> ❌
-isValid("() bici"); // ❌
