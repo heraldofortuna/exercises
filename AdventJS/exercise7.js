@@ -1,15 +1,14 @@
-function contains(store, product) {
-  console.log(Object.values(store));
-  Object.values(store).forEach((item) => {
-    console.log(item);
-    if (item !== product) {
-      console.log(Object.values(item));
-    } else {
-      return true;
-    }
-  });
+function iterateStore(store) {
+  if (typeof store === "string") {
+    return store;
+  } else {
+    return Object.values(store).map(iterateStore).flat();
+  }
+}
 
-  return false;
+function contains(store, product) {
+  const stock = iterateStore(store);
+  return stock.includes(product);
 }
 
 const almacen = {
