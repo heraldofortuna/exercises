@@ -1,15 +1,13 @@
 function contains(store, product) {
-  for (let value in Object(store)) {
-    if (value === product) {
-      console.log("1:", value);
+  console.log(Object.values(store));
+  Object.values(store).forEach((item) => {
+    console.log(item);
+    if (item !== product) {
+      console.log(Object.values(item));
+    } else {
       return true;
-    } else if (typeof value == "object") {
-      console.log("2:", value);
-      contains(value, product);
     }
-
-    console.log(value, typeof value);
-  }
+  });
 
   return false;
 }
