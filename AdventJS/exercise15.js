@@ -1,15 +1,22 @@
 function checkSledJump(heights) {
-  let peak = 0;
+  const max = {
+    value: Math.max(...heights),
+    index: heights.indexOf(Math.max(...heights)),
+  };
+  var up = false;
+  var down = false;
+  var lastHeight = null;
 
   for (let i = 0; i < heights.length; i++) {
-    if (heights[i] > peak) {
-      peak = heights[i];
+    if (heights[i] === lastHeight) return false;
+    if (i > max.index) {
+      down = true;
+      if (lastHeight < heights[i]) return false;
     }
-    if (heights[i] < heights[i + 1]) {
-    }
+    up = true;
+    lastHeight = heights[i];
   }
-
-  return false;
+  return up && down;
 }
 
 console.log(checkSledJump([1, 2, 3, 2, 1])); // true: sube y baja de forma estricta
