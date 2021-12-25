@@ -1,15 +1,7 @@
 function pangram(letter) {
-  let alphabet = [...Array(26)].map((_, i) => i + 97);
-
-  for (i = 0; i < letter.length; i++) {
-    const lowerLetter = letter[i].toLowerCase();
-    const codeLetter = lowerLetter.charCodeAt();
-    if (codeLetter >= 97 && codeLetter <= 122) {
-      alphabet = alphabet.filter((item) => item !== codeLetter);
-    }
-  }
-
-  return alphabet.length === 0;
+  const alphabet = "abcdefghijklmnñopqrstuvwxyz".split("");
+  const lower = letter.normalize().toLowerCase();
+  return alphabet.every((character) => lower.includes(character));
 }
 
 console.log(pangram("Extraño pan de col y kiwi se quemó bajo fugaz vaho")); // true
