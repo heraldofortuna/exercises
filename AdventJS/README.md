@@ -1,35 +1,53 @@
 ## AdventJS
 
-> Find a solution by language and level:
+> Cada día de este mes, y hasta el 25, Midudev soltó un ejercicio propuesto en JavaScript en el portal https://adventjs.dev/
 
-### `JavaScript`
+### `Ejercicios`
 
-[Opposites Attract (8 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/opposites-attract.js)
+[Contando ovejas para dormir](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise1.js)
 
-[Gravity Flip (8 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/gravity-flip.js)
+[¡Ayuda al elfo a listar los regalos!](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise2.js)
 
-[Valid Spacing (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/valid-spacing.js)
+[El Grinch quiere fastidiar la Navidad](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise3.js)
 
-[Reverse the bits in an integer (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/reverse-bits-integer.js)
+[¡Es hora de poner la navidad en casa!](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise4.js)
 
-[Simple Fun #2: Circle of Numbers (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/circle-of-numbers.js)
+[Contando los días para los regalos](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise5.js)
 
-[Title Case (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/title-case.js)
+[Rematando los exámenes finales](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise6.js)
 
-[Equal Sides Of An Array (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/equal-sides-of-an-array.js)
+[Buscando en el almacén ... ](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise7.js)
 
-[Highest Rank Number in an Array (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/highest-rank-number-in-an-array.js)
+[La locura de las criptomonedas](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise8.js)
 
-### `Python`
+[Agrupando cosas automáticamente](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise9.js)
 
-[Isograms (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/isograms.py)
+[La máquina de cambio](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise10.js)
 
-[Money, money, money (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/money-money-money.py)
+[¿Vale la pena la tarjeta fidelidad del cine?](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise11.js)
 
-[Count the Digit (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/count-the-digit.py)
+[La ruta perfecta para dejar los regalos](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise12.js)
 
-[Array.diff (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/array-diff.py)
+[Envuelve regalos con asteriscos](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise13.js)
 
-[Two Sum (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/two-sum.py)
+[En busca del reno perdido](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise14.js)
 
-[Dubstep (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/dubstep.py)
+[El salto perfecto](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise15.js)
+
+[Descrifrando los números ...](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise16.js)
+
+[La locura de enviar paquetes en esta época](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise17.js)
+
+[El sistema operativo de Santa Claus](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise18.js)
+
+[¿Qué deberíamos aprender en Platzi?](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise19.js)
+
+[¿Una carta de pangramas? ¡QUÉ!](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise20.js)
+
+[La ruta con los regalos](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise21.js)
+
+[¿Cuántos adornos necesita el árbol?](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise22.js)
+
+[¿Puedes reconfigurar las fábricas para no parar de crear regalos?](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise23.js)
+
+[Comparando árboles de Navidad](https://github.com/heraldofortuna/exercises/blob/main/AdventJS/exercise24.js)

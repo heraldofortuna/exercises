@@ -1,6 +1,10 @@
 function checkIsSameTree(treeA, treeB) {
-  // ¡No olvides compartir tu solución en redes!
-  return false;
+  if (!treeA && !treeB) return true;
+  if (treeA?.value !== treeB?.value) return false;
+  return (
+    checkIsSameTree(treeA.left, treeB.left) &&
+    checkIsSameTree(treeA.right, treeB.right)
+  );
 }
 
 const tree = {
