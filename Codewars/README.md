@@ -20,6 +20,10 @@
 
 [Highest Rank Number in an Array (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/highest-rank-number-in-an-array.js)
 
+[Short Long Short (8 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/short-long-short.js)
+
+[Triangle type (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/triangle-type.js)
+
 ### `Python`
 
 [Isograms (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/isograms.py)
