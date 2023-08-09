@@ -24,6 +24,8 @@
 
 [Triangle type (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/triangle-type.js)
 
+[Coprimes up to N (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/coprimes-up-to-n.js)
+
 ### `Python`
 
 [Isograms (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/isograms.py)
