@@ -26,6 +26,10 @@
 
 [Coprimes up to N (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/coprimes-up-to-n.js)
 
+[Jenny's secret message (8 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/jennys-secret-message.js)
+
+[Jungerstein's Math Training Room: 1. How many zeros are at the end of n!! ? (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/how-many-zeros-are-at-the-end-of-n.js)
+
 ### `Python`
 
 [Isograms (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/isograms.py)
