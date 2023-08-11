@@ -30,6 +30,10 @@
 
 [Jungerstein's Math Training Room: 1. How many zeros are at the end of n!! ? (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/how-many-zeros-are-at-the-end-of-n.js)
 
+[Parse nice int from char problem (8 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/parse-nice-int-from-char-problem.js)
+
+[Large Factorials (4 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/large-factorials.js)
+
 ### `Python`
 
 [Isograms (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/isograms.py)
