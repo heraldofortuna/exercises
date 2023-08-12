@@ -36,6 +36,8 @@
 
 [The Hashtag Generator (5 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/the-hashtag-generator.js)
 
+[Remove duplicates from list (8 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/remove-duplicates-from-list.js)
+
 ### `Python`
 
 [Isograms (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/isograms.py)
