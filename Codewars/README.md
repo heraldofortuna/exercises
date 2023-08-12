@@ -34,6 +34,8 @@
 
 [Large Factorials (4 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/large-factorials.js)
 
+[The Hashtag Generator (5 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/the-hashtag-generator.js)
+
 ### `Python`
 
 [Isograms (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/isograms.py)
