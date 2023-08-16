@@ -42,6 +42,8 @@
 
 [Filter the number (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/filter-the-number.js)
 
+[Converting 12-hour time to 24-hour time (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/converting-12-hour-time-to-24-hour-time.js)
+
 ### `Python`
 
 [Isograms (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/isograms.py)
