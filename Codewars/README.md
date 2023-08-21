@@ -46,6 +46,8 @@
 
 [Selective fear of numbers (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/selective-fear-of-numbers.js)
 
+[Eliminate the intruders! Bit manipulation (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/eliminate-the-intruders!-bit-manipulation.js)
+
 ### `Python`
 
 [Isograms (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/isograms.py)
