@@ -1,28 +1,26 @@
-// Parte 1
-const aliensFn = (aliens, days) => {
-  const aliensObj = Object.assign({}, aliens);
-  const finalAliens = fn(aliensObj, days);
-  console.log("Número de aliens:", Object.keys(finalAliens).length);
-  return finalAliens;
-};
+const input_small = [3,4,3,1,2];
 
-const fn = (aliens, days) => {
-  if (days === 0) return aliens;
+const aliens_linear = function(days, aliens) {
+  let states = Array(9);
 
-  let newAliens = {};
-  let childs = 0;
+  for (let i = 0; i < 9; i++) states[i] = 0;
 
-  for (const key in aliens) {
-    if (aliens[key] === 0) {
-      newAliens[key] = 6;
-      newAliens[Object.keys(aliens).length + childs] = 8;
-      childs += 1;
-    } else {
-      newAliens[key] = aliens[key] - 1;
-    };
+  for (const alien of aliens) {
+    states[alien] += 1;
   };
 
-  return fn(newAliens, days - 1);
+  for(let j = 0; j < days; j++) {
+    // [0, 1, 1, 2, 1, 0, 0, 0, 0]
+    let new_aliens = states.shift();
+    // [1, 1, 2, 1, 0, 0, 0, 0]
+    states.push(new_aliens);
+    // [1, 1, 2, 1, 0, 0, 0, 0, 0]
+    states[6] += new_aliens;
+  };
+
+  return states.reduce((accum, curr) => accum + curr);
 };
 
-aliensFn([3,4,3,1,2], 95);
+console.log(aliens_linear(18, input_small));
+console.log(aliens_linear(80, input_small));
+console.log(aliens_linear(256, input_small));
