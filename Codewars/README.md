@@ -48,6 +48,10 @@
 
 [Eliminate the intruders! Bit manipulation (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/eliminate-the-intruders!-bit-manipulation.js)
 
+[Running out of space (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/running-out-of-space.js)
+
+[WeIrD StRiNg CaSe (6 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/JavaScript/weird-string-case.js)
+
 ### `Python`
 
 [Isograms (7 kyu)](https://github.com/heraldofortuna/exercises/blob/main/Codewars/Python/isograms.py)
